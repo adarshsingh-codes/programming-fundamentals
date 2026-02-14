@@ -1,2 +1,2 @@
-# programming-fundamentals
+coding-fundamentals
 journey starts
